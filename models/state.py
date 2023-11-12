@@ -1,4 +1,4 @@
-#!/usr/bin/pyton3
+!/usr/bin/pyton3
 """Class state module"""
 from models.base_model import BaseModel
 
