@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+!/usr/bin/python3
 """Module that contains class Place"""
 from models.base_model import BaseModel
 
