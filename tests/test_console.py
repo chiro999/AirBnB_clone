@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """Unittests for console.py"""
 import pep8
 import os
